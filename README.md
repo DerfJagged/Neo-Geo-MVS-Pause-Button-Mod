@@ -1,5 +1,7 @@
 # Neo-Geo-MVS-Pause-Button-Mod
-A simple mod to add pause button functionality to a Neo Geo MVS board
+A simple mod to add pause button functionality to a Neo Geo MVS board.
+
+Created by Derf of [ConsoleMods.org](https://www.consolemods.org/wiki/Main_Page).
 
 # Parts
 
