@@ -16,5 +16,5 @@ A simple mod to add pause button functionality to a Neo Geo MVS board
 
 # Images
 
-<img src="https://www.consolemods.org/wiki/images/f/f9/MVS_Pause_Button.jpg" width="auto" height="300"> <img src="https://www.consolemods.org/wiki/images/b/bc/MVS_Pause_Button_2.jpg" width="auto" height="300">
-<img src="https://www.consolemods.org/wiki/images/0/03/MVS_Pause_Button_Schematic.jpg" width="auto" height="319">
+<img src="https://www.consolemods.org/wiki/images/f/f9/MVS_Pause_Button.jpg" width="auto" height="275"> <img src="https://www.consolemods.org/wiki/images/b/bc/MVS_Pause_Button_2.jpg" width="auto" height="275">
+<img src="https://www.consolemods.org/wiki/images/0/03/MVS_Pause_Button_Schematic.jpg" width="auto" height="293">
