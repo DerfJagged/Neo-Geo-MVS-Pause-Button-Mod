@@ -32,5 +32,5 @@ https://github.com/DerfJagged/Neo-Geo-MVS-Pause-Button-Mod/assets/24844708/793aa
 
 # Board Pictures
 
-<img src="https://www.consolemods.org/wiki/images/f/f9/MVS_Pause_Button.jpg" width="auto" height="275"> <img src="https://www.consolemods.org/wiki/images/b/bc/MVS_Pause_Button_2.jpg" width="auto" height="275">
-<img src="https://www.consolemods.org/wiki/images/0/03/MVS_Pause_Button_Schematic.jpg" width="auto" height="293">
+<img src="https://www.consolemods.org/wiki/images/f/f9/MVS_Pause_Button.jpg" width="49%" height="auto"> <img src="https://www.consolemods.org/wiki/images/b/bc/MVS_Pause_Button_2.jpg" width="49%" height="auto">
+<img src="https://www.consolemods.org/wiki/images/0/03/MVS_Pause_Button_Schematic.jpg" width="99%" height="auto">
