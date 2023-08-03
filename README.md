@@ -13,7 +13,7 @@ The Neo Geo MVS does not normally support pausing of games through regular contr
 
 Note that this has only been test fit to sit flush on a MV-1AX motherboard. If you install this mod on a different motherboard, please let us know if it sits flush and we can note that here.
 
-https://github.com/DerfJagged/Neo-Geo-MVS-Pause-Button-Mod/assets/24844708/793aafa5-709e-4766-8840-4fdc3d2cc627
+[![Neo Geo MVS Pause Button Mod](http://img.youtube.com/vi/1Y2-J27g2OU/0.jpg)](https://www.youtube.com/watch?v=1Y2-J27g2OU "Neo Geo MVS Pause Button Mod Demo")
 
 # Parts
 
