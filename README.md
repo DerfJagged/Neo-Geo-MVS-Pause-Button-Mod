@@ -22,9 +22,9 @@ Click the image below to see a demo of the mod in action.
 * One AIP74LVC2G14GC363 or equivalent SOT-363 dual inverter Schmitt trigger (INV).
 * One SN74LVC1G175DCKR or equivalent SOT-363 flip flop (FLP).
 * One MCP130T-315I/TT or equivalent SOT-23-3 chip for Power on Reset (POR).
-* One 10kΩ resistor, preferably 0602 size (R1).
-* One 1kΩ resistor, preferably 0602 size (R2).
-* Two 100nF (0.1µF) capacitors, preferably 0602 size.
+* One 10kΩ resistor, preferably 0603 size (R1).
+* One 1kΩ resistor, preferably 0603 size (R2).
+* Two 100nF (0.1µF) capacitors, preferably 0603 size.
 
 # Installation
 
