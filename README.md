@@ -7,11 +7,13 @@ Massive thanks to [12voltman](https://github.com/12voltman?tab=repositories) as 
 
 <img src="https://www.consolemods.org/wiki/images/f/f9/MVS_Pause_Button.jpg" width="49%" height="auto"> <img src="https://www.consolemods.org/wiki/images/b/bc/MVS_Pause_Button_2.jpg" width="49%" height="auto">
 
-# Concept
+# Concept and Demo
 
 The Neo Geo MVS does not normally support pausing of games through regular controls. However, (all?) games support a special pause mode when DIP switch #8 is flipped to the ON position during gameplay. This is a graceful pause, as background animations and sound generally continue playing. This mod simply allows you to use a dedicated button on your controller or control panel to electrically toggle this DIP switch. In short, this is a momentary-to-toggle switch board.
 
 Note that this has only been test fit to sit flush on a MV-1AX motherboard. If you install this mod on a different motherboard, please let us know if it sits flush and we can note that here.
+
+Click the image below to see a demo of the mod in action.
 
 [![Neo Geo MVS Pause Button Mod](http://img.youtube.com/vi/1Y2-J27g2OU/0.jpg)](https://www.youtube.com/watch?v=1Y2-J27g2OU "Neo Geo MVS Pause Button Mod Demo")
 
