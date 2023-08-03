@@ -27,7 +27,7 @@ https://github.com/DerfJagged/Neo-Geo-MVS-Pause-Button-Mod/assets/24844708/793aa
 1. Assemble pause button PCB. Positions are marked on the board as described in the parts list.
 2. Place PCB onto motherboard and align with DIP switch #8 and solder into place. <br> <img src="https://www.consolemods.org/wiki/images/c/cc/MVS_Pause_Button_Install_1.jpg" width="auto" height="300px">
 3. Solder a wire from a 5V source (such as the "C" pad marked in the picture below) to the 5V pad on the PCB.
-4. Solder a wire from your desired button to act as the pause button to the SEL pad on the PCB. The suggested button is the Player 1 Select button marked in the image below. Multiple buttons can be wired to the SEL pad at once. <br> <img src="https://www.consolemods.org/wiki/images/8/80/MVS_Pause_Button_Install_2.jpg" width="auto" height="200px">
+4. Solder a wire from your desired button to act as the pause button to the SEL pad on the PCB. The suggested button is the Player 1 Select button marked in the image below. Multiple buttons can be wired to the SEL pad at once. <br> <img src="https://www.consolemods.org/wiki/images/8/80/MVS_Pause_Button_Install_2.jpg" width="100%" height="auto">
 5. Press the pause button during gameplay to pause the game!
 
 # Board Pictures
