@@ -1,7 +1,7 @@
 M48
-; DRILL file {KiCad (6.0.10)} date Wed Jul 19 18:34:37 2023
+; DRILL file {KiCad (6.0.10)} date Wed Aug  9 22:59:30 2023
 ; FORMAT={-:-/ absolute / metric / decimal}
-; #@! TF.CreationDate,2023-07-19T18:34:37-05:00
+; #@! TF.CreationDate,2023-08-09T22:59:30-05:00
 ; #@! TF.GenerationSoftware,Kicad,Pcbnew,(6.0.10)
 ; #@! TF.FileFunction,Plated,1,2,PTH
 FMAT,2
@@ -15,11 +15,14 @@ G90
 G05
 T1
 X108.375Y-53.23
-X108.838Y-49.706
-X108.975Y-43.8
+X108.55Y-43.75
+X108.6Y-46.1
 X110.325Y-48.85
-X112.075Y-52.9
-X114.95Y-46.75
+X112.2Y-44.15
+X112.2Y-45.425
+X112.2Y-52.95
+X115.1Y-46.8
+X117.15Y-46.05
 T2
 X114.4Y-42.35
 X122.05Y-42.35
