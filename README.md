@@ -23,7 +23,8 @@ Click the image below to see a demo of the mod in action.
 * One SN74LVC1G175DCKR or equivalent SOT-363 flip flop (FLP).
 * One MCP130T-315I/TT or equivalent SOT-23-3 chip for Power on Reset (POR).
 * One 1kΩ resistor, preferably 0603 size (R1).
-* Two 10kΩ resistors, preferably 0603 size (R2 and R3).
+* One 10kΩ resistor, preferably 0603 size (R2).
+* One 150Ω resistor, preferably 0603 size (R3).
 * Two 100nF (0.1µF) capacitors, preferably 0603 size (C1 and C2).
 
 # Installation
