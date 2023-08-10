@@ -1,5 +1,5 @@
 Version 1.1:
-- Added short protection resistor to DIP8 output
+- Added short protection resistor to DIP8 output (thanks Furrtek for pointing it out!)
 - Silkscreen dots for pin 1 of INV and FLP
 - Standardized silkscreen
 - Moved fiducials to top layer
