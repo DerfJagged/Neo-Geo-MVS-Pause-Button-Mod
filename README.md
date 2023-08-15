@@ -17,6 +17,11 @@ Click the image below to see a demo of the mod in action.
 
 [![Neo Geo MVS Pause Button Mod](http://img.youtube.com/vi/1Y2-J27g2OU/0.jpg)](https://www.youtube.com/watch?v=1Y2-J27g2OU "Neo Geo MVS Pause Button Mod Demo")
 
+# Manufacturing
+
+* Feel free to remove all silkscreen except "ConsoleMods.org".
+* 1.0mm thickness recommended.
+
 # Parts
 
 * One AIP74LVC2G14GC363 or equivalent SOT-363 dual inverter Schmitt trigger (INV).
