@@ -24,6 +24,8 @@ Click the image below to see a demo of the mod in action.
 
 # Parts
 
+([Shopping cart containing the items below](https://www.digikey.com/en/mylists/list/QAYD25AZV5))
+
 * One AIP74LVC2G14GC363 or equivalent SOT-363 dual inverter Schmitt trigger (INV).
 * One SN74LVC1G175DCKR or equivalent SOT-363 flip flop (FLP).
 * One MCP130T-315I/TT or equivalent SOT-23-3 chip for Power on Reset (POR).
