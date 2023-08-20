@@ -648,7 +648,7 @@
     (in_bom yes) (on_board yes)
     (uuid 6c5fe62b-2a83-4a65-b6bc-95eae718d02c)
     (property "Reference" "R3" (id 0) (at 138.43 91.44 90))
-    (property "Value" "10k" (id 1) (at 138.43 88.9 90))
+    (property "Value" "150" (id 1) (at 138.43 88.9 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 138.43 89.662 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -978,7 +978,7 @@
       (reference "R2") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/6c5fe62b-2a83-4a65-b6bc-95eae718d02c"
-      (reference "R3") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R3") (unit 1) (value "150") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
   )
 )
