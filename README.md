@@ -38,9 +38,12 @@ Click the image below to see a demo of the mod in action.
 
 1. Assemble pause button PCB. Positions are marked on the board as described in the parts list.
 2. Place PCB onto motherboard and align with DIP switch #8 and solder into place. <br> <img src="https://www.consolemods.org/wiki/images/c/cc/MVS_Pause_Button_Install_1.jpg" width="auto" height="300px">
-3. Solder a wire from a 5V source (such as the "C" pad marked in the picture below) to the 5V pad on the PCB.
-4. Solder a wire from your desired button to act as the pause button to the SEL pad on the PCB. The suggested button is the Player 1 Select button marked in the image below. Multiple buttons can be wired to the SEL pad at once. <br> <img src="https://www.consolemods.org/wiki/images/8/80/MVS_Pause_Button_Install_2.jpg" width="100%" height="auto">
-5. Press the pause button during gameplay to pause the game!
+3. Solder a wire from a 5V source (such as the "C" pad marked in the picture below or any pad connected to it) to the 5V pad on the PCB.
+4. Solder a wire from your desired button to act as the pause button to the SEL pad on the PCB. The suggested button is the Player 1 Select button marked in an image below. Multiple buttons can be wired to the SEL pad at once.
+    - For a MV-1C: <br> <img src="https://consolemods.org/wiki/images/8/8f/MVS_Pause_Button_Install_MV-1C.png" width="100%" height="auto">
+    - For a MV-1AX: <br> <img src="https://consolemods.org/wiki/images/9/9d/MVS_Pause_Button_Install_MV-1AX.jpg" width="100%" height="auto">
+7. Press the pause button during gameplay to pause the game!
+    - If UniBIOS is installed, you will need to first press Select to pause the system, then hold Start and press Select to access the UniBIOS menu.
 
 # Schematic
 
